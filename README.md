@@ -71,7 +71,7 @@ We start every Monday Sprint with an All Hands call. This is a regular, reliable
 
 #### Project-Specific Calls
 
-Aftet the All Hands call, we break down into project-specific calls. These calls are not a time for lengthy announcements or in-depth discussions, but rather a place where we highlight issues that need discussion and where we go over milestones and our progress. We use them to discuss the tickets people are working on and to allow brief discussion of any relevant topics or blockers. If any topics require further discussion, we generally redirect it to either a follow-up call (ie. "Let's discuss this between the three of us immediately after the scrum."), IRC, or to GitHub issues.
+After the All Hands call, we break down into project-specific calls. These calls are not a time for lengthy announcements or in-depth discussions, but rather a place where we highlight issues that need discussion and where we go over milestones and our progress. We use them to discuss the tickets people are working on and to allow brief discussion of any relevant topics or blockers. If any topics require further discussion, we generally redirect it to either a follow-up call (ie. "Let's discuss this between the three of us immediately after the scrum."), IRC, or to GitHub issues.
 
 #### Schedule
 
